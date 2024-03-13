@@ -11,7 +11,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/dikshantmadai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dikshantmadai" height="30" width="40" /></a>
 <a href="https://kaggle.com/dikshantmadai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dikshantmadai" height="30" width="40" /></a>
-<a href="https://twitter.com/dikshantmadai01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dikshantmadai01" height="30" width="40" /></a>
+<a href="https://www.datacamp.com/portfolio/dikshantmadai" target="_blank"><img align="center" src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F" alt="dikshantmadai" height="37" width="85" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
