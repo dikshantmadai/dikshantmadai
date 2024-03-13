@@ -1,4 +1,3 @@
-![logo](https://github.com/dikshantmadai/dikshantmadai/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Dikshant Madai</h1>
 <h3 align="center">Aspiring Data Scientist pursuing a degree in Computer and Data Science From Nepal</h3>
 
