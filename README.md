@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dikshant Madai</h1>
-<h3 align="center">Aspiring Data Scientist pursuing a degree in Computer and Data Science From Nepal</h3>
+<h3 align="center">Pursuing a degree in Computer and Data Science From Nepal</h3>
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/usXZmmgP9Z7kf39fnq/200w.gif?cid=6c09b9529g753siqjymeevgb7in8w17lgz4azhl7ulw4v8tc&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
